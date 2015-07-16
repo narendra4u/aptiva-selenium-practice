@@ -1,0 +1,1 @@
+Selenium is open source tool used for automating tests .This project is intended only for practice and useful for experienced
